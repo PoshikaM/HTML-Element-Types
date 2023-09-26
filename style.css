@@ -1,0 +1,32 @@
+#MyHobbies-id {
+  color: aqua
+
+}
+/* used to select whole background */
+*{
+  background-color: teal;
+}
+.Meditation {
+  color:rgb(247, 122, 12);
+  background: black;
+}
+.RaadingBooks {
+  color:burlywood;
+  background: green
+  }
+  .PlayingShuttle {
+    color :darksalmon;
+    background: darkblue;
+  }
+  /* for selecting the meditation para */
+  .Firstpara {
+    color:antiquewhite
+  }
+  /* for selecting the reading books para */
+  .Secondpara {
+    color :coral
+  }
+  /* for selecting the playing shuttle para */
+  .Thirdpara {
+    color:crimson;
+  }
